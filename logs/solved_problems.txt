@@ -1,0 +1,197 @@
+2025-03-09 07:32:15.223714 - Cricket World Cup Qualifier - None
+2025-03-09 07:33:46.879537 - Cricket World Cup Qualifier - None
+2025-03-09 07:42:49.094830 - Cricket World Cup Qualifier - None
+2025-03-09 08:57:22.285679 - Cricket World Cup Qualifier - ❌ Error: HTTPConnectionPool(host='localhost', port=54751): Read timed out. (read timeout=120)
+2025-03-09 09:07:43.348407 - Cricket World Cup Qualifier - ❌ Error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+	GetHandleVerifier [0x0064CED3+25523]
+	(No symbol) [0x005D23B4]
+	(No symbol) [0x004A06E3]
+	(No symbol) [0x0047F84E]
+	(No symbol) [0x0051459E]
+	(No symbol) [0x0052EB89]
+	(No symbol) [0x0050D5F6]
+	(No symbol) [0x004DC55F]
+	(No symbol) [0x004DD8A4]
+	GetHandleVerifier [0x00952713+3193843]
+	GetHandleVerifier [0x009669E9+3276489]
+	GetHandleVerifier [0x00960F0C+3253228]
+	GetHandleVerifier [0x006EB0C0+673184]
+	(No symbol) [0x005DB43D]
+	(No symbol) [0x005D8568]
+	(No symbol) [0x005D8709]
+	(No symbol) [0x005CAE90]
+	BaseThreadInitThunk [0x75F65D49+25]
+	RtlInitializeExceptionChain [0x7718CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CD71+561]
+
+2025-03-09 09:11:22.030874 - Cricket World Cup Qualifier - ❌ Error: Message: javascript error: ace.edit can't find div #submit-ide-v2
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+	GetHandleVerifier [0x0105CED3+25523]
+	(No symbol) [0x00FE23B4]
+	(No symbol) [0x00EB06E3]
+	(No symbol) [0x00EB70CE]
+	(No symbol) [0x00EB95C5]
+	(No symbol) [0x00F40295]
+	(No symbol) [0x00F1D7FC]
+	(No symbol) [0x00F3F273]
+	(No symbol) [0x00F1D5F6]
+	(No symbol) [0x00EEC55F]
+	(No symbol) [0x00EED8A4]
+	GetHandleVerifier [0x01362713+3193843]
+	GetHandleVerifier [0x013769E9+3276489]
+	GetHandleVerifier [0x01370F0C+3253228]
+	GetHandleVerifier [0x010FB0C0+673184]
+	(No symbol) [0x00FEB43D]
+	(No symbol) [0x00FE8568]
+	(No symbol) [0x00FE8709]
+	(No symbol) [0x00FDAE90]
+	BaseThreadInitThunk [0x75F65D49+25]
+	RtlInitializeExceptionChain [0x7718CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CD71+561]
+
+2025-03-09 09:17:28.450855 - Cricket World Cup Qualifier - ✅ Solution submitted successfully!
+2025-03-09 09:27:52.084072 - Lucky Seven - ❌ Error: HTTPConnectionPool(host='localhost', port=56586): Read timed out. (read timeout=120)
+2025-03-09 09:29:10.588534 - Lucky Seven - ❌ Error: Message: javascript error: ace is not defined
+  (Session info: chrome=134.0.6998.35)
+Stacktrace:
+	GetHandleVerifier [0x0094CED3+25523]
+	(No symbol) [0x008D23B4]
+	(No symbol) [0x007A06E3]
+	(No symbol) [0x007A70CE]
+	(No symbol) [0x007A95C5]
+	(No symbol) [0x00830295]
+	(No symbol) [0x0080D7FC]
+	(No symbol) [0x0082F273]
+	(No symbol) [0x0080D5F6]
+	(No symbol) [0x007DC55F]
+	(No symbol) [0x007DD8A4]
+	GetHandleVerifier [0x00C52713+3193843]
+	GetHandleVerifier [0x00C669E9+3276489]
+	GetHandleVerifier [0x00C60F0C+3253228]
+	GetHandleVerifier [0x009EB0C0+673184]
+	(No symbol) [0x008DB43D]
+	(No symbol) [0x008D8568]
+	(No symbol) [0x008D8709]
+	(No symbol) [0x008CAE90]
+	BaseThreadInitThunk [0x75F65D49+25]
+	RtlInitializeExceptionChain [0x7718CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7718CD71+561]
+
+2025-03-09 09:35:32.040262 - Lucky Seven - ✅ Solution submitted successfully!
+2025-03-09 09:55:35.560166 - Lucky Seven - ✅ Solution submitted successfully!
+2025-03-09 09:56:47.958951 - Lucky Seven - ✅ Solution submitted successfully!
+2025-03-10 06:13:52.904714 - Clear Day - ✅ Solution submitted successfully!
+2025-03-10 06:15:30.209165 - Clear Day - ✅ Solution submitted successfully!
+2025-03-11 05:21:57.963711 - Double Rent - ✅ Solution submitted successfully!
+2025-03-12 07:31:46.307107 - Saving Taxes - ❌ Error: Message: javascript error: ace is not defined
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x0124B5A3+24387]
+	(No symbol) [0x011D5904]
+	(No symbol) [0x010B0753]
+	(No symbol) [0x010B7137]
+	(No symbol) [0x010B9615]
+	(No symbol) [0x01140125]
+	(No symbol) [0x0111D84C]
+	(No symbol) [0x0113F138]
+	(No symbol) [0x0111D646]
+	(No symbol) [0x010EC59F]
+	(No symbol) [0x010ED8E4]
+	GetHandleVerifier [0x0154D883+3179043]
+	GetHandleVerifier [0x01566CF9+3282585]
+	GetHandleVerifier [0x0156167C+3260444]
+	GetHandleVerifier [0x012E4330+650448]
+	(No symbol) [0x011DED0D]
+	(No symbol) [0x011DBAF8]
+	(No symbol) [0x011DBC99]
+	(No symbol) [0x011CE530]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-03-12 07:33:07.697892 - Saving Taxes - ❌ Error: Message: javascript error: ace.edit can't find div #submit-ide-v2
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x00C7B5A3+24387]
+	(No symbol) [0x00C05904]
+	(No symbol) [0x00AE0753]
+	(No symbol) [0x00AE7137]
+	(No symbol) [0x00AE9615]
+	(No symbol) [0x00B70125]
+	(No symbol) [0x00B4D84C]
+	(No symbol) [0x00B6F138]
+	(No symbol) [0x00B4D646]
+	(No symbol) [0x00B1C59F]
+	(No symbol) [0x00B1D8E4]
+	GetHandleVerifier [0x00F7D883+3179043]
+	GetHandleVerifier [0x00F96CF9+3282585]
+	GetHandleVerifier [0x00F9167C+3260444]
+	GetHandleVerifier [0x00D14330+650448]
+	(No symbol) [0x00C0ED0D]
+	(No symbol) [0x00C0BAF8]
+	(No symbol) [0x00C0BC99]
+	(No symbol) [0x00BFE530]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-03-12 07:38:43.731089 - Saving Taxes - ✅ Solution submitted successfully!
+2025-03-12 07:41:54.250469 - Saving Taxes - ❌ Error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.36)
+Stacktrace:
+	GetHandleVerifier [0x0061B5A3+24387]
+	(No symbol) [0x005A5904]
+	(No symbol) [0x00480753]
+	(No symbol) [0x0045F83E]
+	(No symbol) [0x004F454E]
+	(No symbol) [0x0050EA19]
+	(No symbol) [0x004ED646]
+	(No symbol) [0x004BC59F]
+	(No symbol) [0x004BD8E4]
+	GetHandleVerifier [0x0091D883+3179043]
+	GetHandleVerifier [0x00936CF9+3282585]
+	GetHandleVerifier [0x0093167C+3260444]
+	GetHandleVerifier [0x006B4330+650448]
+	(No symbol) [0x005AED0D]
+	(No symbol) [0x005ABAF8]
+	(No symbol) [0x005ABC99]
+	(No symbol) [0x0059E530]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x777BCDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x777BCD71+561]
+
+2025-03-12 09:34:52.468409 - Saving Taxes - ✅ Solution submitted successfully!
+2025-03-13 09:37:38.198341 - Masterchef finals - ✅ Solution submitted successfully!
+2025-03-13 10:03:28.960375 - Biryani classes - ✅ Solution submitted successfully!
+2025-03-13 23:46:34.350783 - Cricket World Cup Qualifier - ❌ Error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.89)
+Stacktrace:
+	GetHandleVerifier [0x00A5B5A3+24387]
+	(No symbol) [0x009E5904]
+	(No symbol) [0x008C0753]
+	(No symbol) [0x008AFF20]
+	(No symbol) [0x008CE022]
+	(No symbol) [0x0093469F]
+	(No symbol) [0x0094EA19]
+	(No symbol) [0x0092D646]
+	(No symbol) [0x008FC59F]
+	(No symbol) [0x008FD8E4]
+	GetHandleVerifier [0x00D5D883+3179043]
+	GetHandleVerifier [0x00D76CF9+3282585]
+	GetHandleVerifier [0x00D7167C+3260444]
+	GetHandleVerifier [0x00AF4330+650448]
+	(No symbol) [0x009EED0D]
+	(No symbol) [0x009EBAF8]
+	(No symbol) [0x009EBC99]
+	(No symbol) [0x009DE530]
+	BaseThreadInitThunk [0x758D5D49+25]
+	RtlInitializeExceptionChain [0x7708CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x7708CDC1+561]
+
+2025-03-13 23:55:17.129719 - Biryani classes - ✅ Solution submitted successfully!
