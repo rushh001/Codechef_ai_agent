@@ -6,18 +6,18 @@ load_dotenv()
 
 def generate_solution(problem_text):
     if not problem_text:
-        print("❌ Error: No problem text provided.")
+        print(" Error: No problem text provided.")
         return None
 
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
-        print("❌ Error: GROQ API key not found.")
+        print(" Error: GROQ API key not found.")
         return None
 
     client = groq.Client(api_key=api_key)
 
     prompt = f"""
-    You are a competitive programming assistant. Given a problem statement, generate a Python solution.
+    You are a competitive programming assistant. Given a problem statement, generate a Python solution with proper identation.
     Ensure the solution has a 'main()' function that reads input from stdin and prints the correct output.
     Do not include explanations—just the correct Python code.
 
@@ -42,7 +42,7 @@ def generate_solution(problem_text):
 
     # Ensure the response contains a `main()` function
     if "def main():" not in solution_code:
-        print("❌ Error: AI-generated code does not contain a main function.")
+        print(" Error: AI-generated code does not contain a main function.")
         return None
 
     return solution_code
